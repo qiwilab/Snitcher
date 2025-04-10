@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Офисный патруль</string>
+    <string name="crime_title_hint">Опишите преступление</string>
+    <string name="crime_title_label">Состав преступления</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_solved_label">Разрулено</string>
+    <string name="call_police_label">Позвонить в полицию!</string>
+    <string name="new_crime">Новое дело</string>
+    <string name="delete_crimes">Удалить преступление</string>
+    <string name="select_all_crimes">Выбрать ВСЕ</string>
+    <string name="no_crimes">Преступлений не выявлено</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет о преступлении</string>
+    <string name="call_suspect_text">Позвонить подозреваемому</string>
+    <string name="crime_report">%1$s! Преступление раскрыто %2$s. %3$s, и %4$s</string>
+    <string name="crime_report_solved">Расследование завершено</string>
+    <string name="crime_report_unsolved">Расследование не завершено</string>
+    <string name="crime_report_no_suspect">подозреваемых нет.</string>
+    <string name="crime_report_suspect">подозревается %s.</string>
+    <string name="crime_report_subject">Отчет Офисного патруля о преступлении</string>
+    <string name="send_report">Отправить отчет о преступлении с помощью:</string>
+    <string name="deleting_alert">Вы уверены, что нужно удалить?</string>
+    <string name="dial_suspect">Позвонить подозреваемому %s</string>
+    <string name="select_suspect_number">Выберите номер %s</string>
+    <string name="crime_date">Дата %s</string>
+    <string name="crime_time">Время %s</string>
+    <string name="crime_photo_button_description">Сфотографируйте место преступления</string>
+    <string name="crime_photo_no_image_description">Фото места преступления (отсутствует)</string>
+    <string name="crime_photo_image_description">Фото места преступления (присутствует)</string>
+    <string name="enter_the_title_toast">Введите название</string>
+    <string name="crime_date_label">Дата</string>
+    <string name="crime_suspect_label">Подозреваемый</string>
+</resources>
